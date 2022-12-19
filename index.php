@@ -34,7 +34,7 @@
               
                 <h2 class="animated zoomIn"><?php echo $page; ?> on <?php echo $site; ?></h2> <br>
 
-                <a class="stream-now light btn btn-default btn-stream" href="<?php echo $base; ?>/stream-now" target="_blank">Stream in HD - Solution 2</a>
+                <a class="stream-now light btn btn-default btn-stream" href="<?php echo $base; ?>/stream-now" target="_blank">Stream in HD - Solution 2a</a>
     </div>
 <?php echo $texts; ?>
 
